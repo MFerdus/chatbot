@@ -1,4 +1,4 @@
-Below is a **GitHub-ready README section** written **directly from the notebook logic and workflow**, suitable for an **end-to-end healthcare FAQ chatbot project**. This section accurately reflects the data flow, modeling choices, and safety logic implemented in the notebook .
+
 
 ---
 
